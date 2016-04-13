@@ -17,4 +17,7 @@ Pull up a terminal and run the script as ./restaurant.sh
 
 ## Output
 A file with extension ‘.txt’ is produced in the same folder where the script is located. The naming convention of the file is : “Table_'userInputTableNumber_'SystemTimeStamp'.txt
- 
+
+
+# Copyrights:
+A versionof this script is available at https://github.com/NaveenRokkam/unix-script-restaurant-menu.git. Feel free to reuse this with credit to the author. 
