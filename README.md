@@ -2,10 +2,10 @@
 Unix Script for browsing a restaurant menu and placing an order
 
 
-# Configuration Steps:
+## Configuration Steps:
 Assign file permissions using chmod 777 to the file.
 
-###How to run the file:
+##How to run the file:
 Pull up a terminal and run the script as ./restaurant.sh
 
 ## Steps to interact with the application:
@@ -15,5 +15,6 @@ Pull up a terminal and run the script as ./restaurant.sh
 	4.	Finalize order or continue to add items 
 	5.	Finalize the order 
 
-A file with extension ‘.txt’ is produced in the same folder where the script is located. The naming convention of the file is : “Table_'<userInputTableNumber>_'<SystemTimeStamp>.txt
+## Output
+A file with extension ‘.txt’ is produced in the same folder where the script is located. The naming convention of the file is : “Table_'userInputTableNumber_'SystemTimeStamp'.txt
  
