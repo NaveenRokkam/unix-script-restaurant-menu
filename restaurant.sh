@@ -2,8 +2,6 @@
 # Project: restaurant.sh
 # Developers: 
 #   Naveen Rokkam
-#   Fatema Tuz Zohara
-#   Kale Veeranjaneyulu
 # Description:
 # Inputs: Prompts for User name, menu selection
 # Output: A file with user name and preferences.
